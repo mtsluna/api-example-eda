@@ -1,0 +1,2 @@
+INSERT INTO client_entity (client_id, address, code, dni, name, surname, account_account_id) VALUES (1, 'Av. Siempre viva 1234', '41659894_0.5562112656921233_Luna', '41659894', 'Don pancho recargado', 'Luna', null);
+INSERT INTO client_entity (client_id, address, code, dni, name, surname, account_account_id) VALUES (2, 'Av. Siempre viva 1234', '41659894_0.8733973416283984_Luna', '41659894', 'Don pancho recargado', 'Luna', null);
